@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+}
+
+.parallax1 {
+    height: 100vh;
+    background-image: url(Bilder/Lillelungegården.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.parallax2 {
+    height: 100vh;
+    background-image: url(Bilder/Vågen.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.parallax3 {
+    height: 100vh;
+    background-image: url(Bilder/Skansen.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;    
+}
+
+.parallax1 h1,
+.parallax2 h2,
+.parallax3 h2 {
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 10px;
+}
+
+.content {
+    padding: 75px 10%;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.Tekst {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

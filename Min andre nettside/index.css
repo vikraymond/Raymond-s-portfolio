@@ -1,0 +1,53 @@
+h1 {
+    border-width: 10px;
+    border-style: groove;
+    border-color: yellow;
+    padding: 5px;
+    text-shadow: 1px 1px black;
+}
+
+h3 {
+    align-items: center;
+}
+
+body {
+    background-color: chocolate;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Godjul {
+    height: 300px;
+    width: 500px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-image: url(Bilder/God_jul.gif);
+    background-size: cover;
+}
+
+.Godjul:hover {
+    background-image: url(Bilder/Julenisse.gif);
+    background-size: cover;
+}
+
+.Godtnyttår {
+    height: 300px;
+    width: 500px;
+    background-image: url(Bilder/Godt_nyttår.jpg);
+    background-size: cover;
+}
+
+.Godtnyttår:hover {
+    background-image: url(Bilder/Julenisse.gif);
+    background-size: cover;
+}
+
+p {
+    padding: 30px;
+}
+
+
+
+

@@ -1,0 +1,69 @@
+h1 {
+    border-width: 10px;
+    border-style: groove;
+    border-color: yellow;
+    padding: 5px;
+}
+body {
+    background-color: chocolate;
+    text-align: center;
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+.egenskap {
+    color: blue;
+    text-transform: uppercase;
+}
+
+.bilde1 {
+    object-fit: cover;
+    height: 200px;
+    cursor: pointer;
+}
+
+.bilde1_stor {
+    height: 700px;
+    cursor: pointer;
+}
+
+img {
+    height: 200px;
+    width: 250px;
+    padding: 25px 0px;
+}
+
+.bilde {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+}
+div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 500px;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+    margin-bottom: 20px;
+    
+}
+.lister {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 85px;
+}
+
+
+
+
+ 

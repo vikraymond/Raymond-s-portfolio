@@ -1,0 +1,131 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+header {
+  box-shadow: 0px 0px 5px 0px lightgrey;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30px;
+  background-color: lightblue;
+}
+
+nav {
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  border: 4px solid yellow;
+  border-radius: 50%;
+  padding: 8px;
+}
+
+.nav-item {
+  height: 20px;
+  margin: 5px;
+}
+
+h1 {
+  font-size: 40px;
+  text-align: center;
+  padding: 30px;
+}
+
+#Hjem {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+  color: purple;
+  padding: 30px 5px;
+}
+
+.intro_info {
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.profilbilde {
+  object-fit: cover;
+  height: 125px;
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+.profilbilde_stor {
+  height: 700px;
+  cursor: pointer;
+}
+
+#Om_meg {
+  color: purple;
+  padding: 30px 5px;
+}
+
+.skills_img_container {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.skills_img {
+  object-fit: cover;
+  height: 100px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.skills_img_stor {
+  height: 700px;
+  cursor: pointer;
+} 
+
+.skills_img2 {
+  object-fit: cover;
+  height: 100px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.skills_img_stor2 {
+  height: 700px;
+  cursor: pointer;
+}
+
+#Interesser {
+  display: flex;
+  flex-direction: column;
+  color: purple;
+  padding: 30px 5px
+}
+
+.Tekst {
+  padding: 0.8EM;
+  text-align: center;
+}
+
+address {
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+  gap: 40px;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  background-color: lightblue;
+}
+
+.footer_text {
+  padding: 2dvh;
+  text-transform: uppercase;
+}
