@@ -37,13 +37,20 @@ h1 {
   padding: 30px;
 }
 
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 #Hjem {
   display: flex;
   align-items: flex-start;
   flex-direction: column;
   justify-content: center;
+  width: 500px;
   color: purple;
-  padding: 30px 400px;
+  padding: 30px 5px;
 }
 
 .intro_info {
@@ -65,8 +72,9 @@ align-items: center;
 }
 
 #Om_meg {
+  width: 500px;
   color: purple;
-  padding: 30px 400px;
+  padding: 30px 5px;
 }
 
 .skills_img_container {
@@ -103,8 +111,9 @@ align-items: center;
 #Interesser {
   display: flex;
   flex-direction: column;
+  width: 500px;
   color: purple;
-  padding: 30px 400px;
+  padding: 30px 5px;
 }
 
 .Tekst {
