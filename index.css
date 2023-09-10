@@ -61,7 +61,7 @@ align-items: center;
 
 .profilbilde {
   object-fit: cover;
-  height: 125px;
+  height: 100px;
   margin-right: 5px;
   cursor: pointer;
 }
