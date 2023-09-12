@@ -4,10 +4,12 @@ h1 {
     border-color: yellow;
     padding: 5px;
     text-shadow: 1px 1px black;
+    width: 375px;
 }
 
 h3 {
     align-items: center;
+    width: 375px;
 }
 
 body {
