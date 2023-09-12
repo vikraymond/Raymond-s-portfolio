@@ -2,9 +2,9 @@ h1 {
     border-width: 10px;
     border-style: groove;
     border-color: yellow;
-    padding: 5px;
+    padding: 10px;
     text-shadow: 1px 1px black;
-    width: 375px;
+    width: 355px;
 }
 
 h3 {
