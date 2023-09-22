@@ -4,12 +4,14 @@ h1 {
     border-color: yellow;
     padding: 10px;
     text-shadow: 1px 1px black;
-    width: 335px;
+    max-width: 460px;
+    width: 100%;
 }
 
 h3 {
     align-items: center;
-    width: 375px;
+    max-width: 500px;
+    width: 100%;
 }
 
 body {
@@ -22,7 +24,8 @@ body {
 
 .Godjul {
     height: 250px;
-    width: 375px;
+    max-width: 500px;
+    width: 100%;
     margin-top: 40px;
     margin-bottom: 40px;
     background-image: url(Bilder/God_jul.gif);
@@ -36,7 +39,8 @@ body {
 
 .Godtnyttår {
     height: 250px;
-    width: 375px;
+    max-width: 500px;
+    width: 100%;
     background-image: url(Bilder/Godt_nyttår.jpg);
     background-size: cover;
 }
