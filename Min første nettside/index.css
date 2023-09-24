@@ -177,6 +177,7 @@ body {
 img {
     height: 175px;
     width: 225px;
+    width: 100%;
     padding: 25px 0px;
 }
 
