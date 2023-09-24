@@ -174,20 +174,15 @@ body {
     cursor: pointer;
 }
 
-img {
-    height: 175px;
-    width: 225px;
-    width: 100%;
-    padding: 25px 0px;
-}
-
 .bilde {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    align-items: center;
+    align-items: center; 
+    padding: 25px 0px;
     gap: 50px;
 }
+
 div {
     display: flex;
     flex-direction: column;
