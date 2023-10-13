@@ -4,6 +4,13 @@ h1 {
     border-color: yellow;
     padding: 5px;
 }
+
+@media only screen and (max-width: 500px) {
+    body {
+        width: 100%;
+    }
+}
+
 body {
     background-color: chocolate;
     text-align: center;
