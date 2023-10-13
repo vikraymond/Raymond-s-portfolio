@@ -5,8 +5,8 @@ h1 {
     padding: 5px;
 }
 
-@media screen and (max-width: 500px) {
-    body {
+@media only screen and (max-width: 500px) {
+    .bilde {
         width: 100%;
     }
 }
