@@ -5,9 +5,9 @@ h1 {
     padding: 5px;
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 375px) {
     .bilde {
-        width: 75%;
+        width: 100%;
     }
 }
 
@@ -195,7 +195,7 @@ div {
     flex-direction: column;
     align-items: center;
     max-width: 500px;
-    width: 75%;
+    width: 100%;
 }
 
 ul {
