@@ -7,7 +7,7 @@ h1 {
 
 @media only screen and (max-width: 500px) {
     .bilde {
-        width: 75%;
+        width: 100%;
     }
 }
 
@@ -28,7 +28,7 @@ body {
 .bilde1 {
     object-fit: cover;
     height: 175px;
-    width: 225px;
+    width: 175px;
     cursor: pointer;
 }
 
@@ -41,7 +41,7 @@ body {
 .bilde2 {
     object-fit: cover;
     height: 175px;
-    width: 225px;
+    width: 175px;
     cursor: pointer;
 }
 
@@ -54,7 +54,7 @@ body {
 .bilde3 {
     object-fit: cover;
     height: 175px;
-    width: 225px;
+    width: 175px;
     cursor: pointer;
 }
 
@@ -67,7 +67,7 @@ body {
 .bilde4 {
     object-fit: cover;
     height: 175px;
-    width: 225px;
+    width: 175px;
     cursor: pointer;
 }
 
@@ -80,7 +80,7 @@ body {
 .bilde5 {
     object-fit: cover;
     height: 175px;
-    width: 225px;
+    width: 175px;
     cursor: pointer;
 }
 
@@ -93,7 +93,7 @@ body {
 .bilde6 {
     object-fit: cover;
     height: 175px;
-    width: 225px;
+    width: 175px;
     cursor: pointer;
 }
 
@@ -106,7 +106,7 @@ body {
 .bilde7 {
     object-fit: cover;
     height: 175px;
-    width: 225px;
+    width: 175px;
     cursor: pointer;
 }
 
@@ -119,7 +119,7 @@ body {
 .bilde8 {
     object-fit: cover;
     height: 175px;
-    width: 225px;
+    width: 175px;
     cursor: pointer;
 }
 
@@ -132,7 +132,7 @@ body {
 .bilde9 {
     object-fit: cover;
     height: 175px;
-    width: 225px;
+    width: 175px;
     cursor: pointer;
 }
 
@@ -145,7 +145,7 @@ body {
 .bilde10 {
     object-fit: cover;
     height: 175px;
-    width: 225px;
+    width: 175px;
     cursor: pointer;
 }
 
@@ -158,7 +158,7 @@ body {
 .bilde11 {
     object-fit: cover;
     height: 175px;
-    width: 225px;
+    width: 175px;
     cursor: pointer;
 }
 
@@ -171,7 +171,7 @@ body {
 .bilde12 {
     object-fit: cover;
     height: 175px;
-    width: 225px;
+    width: 175px;
     cursor: pointer;
 }
 
@@ -186,8 +186,6 @@ body {
     flex-direction: row;
     justify-content: center;
     align-items: center; 
-    max-width: 500px;
-    width: 75%;
     padding: 25px 0px;
     gap: 50px;
 }
@@ -197,7 +195,7 @@ div {
     flex-direction: column;
     align-items: center;
     max-width: 500px;
-    width: 75%;
+    width: 100%;
 }
 
 ul {
