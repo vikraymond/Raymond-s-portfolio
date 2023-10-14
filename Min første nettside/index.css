@@ -186,6 +186,8 @@ body {
     flex-direction: row;
     justify-content: center;
     align-items: center; 
+    max-width: 500px;
+    width: 75%;
     padding: 25px 0px;
     gap: 50px;
 }
