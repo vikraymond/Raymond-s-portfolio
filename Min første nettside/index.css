@@ -28,10 +28,11 @@ body {
 .bilde1 {
     object-fit: cover;
     height: 175px;
-    width: 175px;
+    width: 225px;
     cursor: pointer;
     transform: rotateY(360deg);
     transform: scaleX(1);
+    transition-property: height;
     transition-property: width;
     transition-duration: 2s;
 }
@@ -45,8 +46,9 @@ body {
 .bilde2 {
     object-fit: cover;
     height: 175px;
-    width: 175px;
+    width: 225px;
     cursor: pointer;
+    transition-property: height;
     transition-property: width;
     transition-duration: 2s;
 }
@@ -60,8 +62,9 @@ body {
 .bilde3 {
     object-fit: cover;
     height: 175px;
-    width: 175px;
+    width: 225px;
     cursor: pointer;
+    transition-property: height;
     transition-property: width;
     transition-duration: 2s;
 }
@@ -75,8 +78,9 @@ body {
 .bilde4 {
     object-fit: cover;
     height: 175px;
-    width: 175px;
+    width: 225px;
     cursor: pointer;
+    transition-property: height;
     transition-property: width;
     transition-duration: 2s;
 }
@@ -90,8 +94,9 @@ body {
 .bilde5 {
     object-fit: cover;
     height: 175px;
-    width: 175px;
+    width: 225px;
     cursor: pointer;
+    transition-property: height;
     transition-property: width;
     transition-duration: 2s;
 }
@@ -105,8 +110,9 @@ body {
 .bilde6 {
     object-fit: cover;
     height: 175px;
-    width: 175px;
+    width: 225px;
     cursor: pointer;
+    transition-property: height;
     transition-property: width;
     transition-duration: 2s;
 }
@@ -120,8 +126,9 @@ body {
 .bilde7 {
     object-fit: cover;
     height: 175px;
-    width: 175px;
+    width: 225px;
     cursor: pointer;
+    transition-property: height;
     transition-property: width;
     transition-duration: 2s;
 }
@@ -135,8 +142,9 @@ body {
 .bilde8 {
     object-fit: cover;
     height: 175px;
-    width: 175px;
+    width: 225px;
     cursor: pointer;
+    transition-property: height;
     transition-property: width;
     transition-duration: 2s;
 }
@@ -150,8 +158,9 @@ body {
 .bilde9 {
     object-fit: cover;
     height: 175px;
-    width: 175px;
+    width: 225px;
     cursor: pointer;
+    transition-property: height;
     transition-property: width;
     transition-duration: 2s;
 }
@@ -165,8 +174,9 @@ body {
 .bilde10 {
     object-fit: cover;
     height: 175px;
-    width: 175px;
+    width: 225px;
     cursor: pointer;
+    transition-property: height;
     transition-property: width;
     transition-duration: 2s;
 }
@@ -180,8 +190,9 @@ body {
 .bilde11 {
     object-fit: cover;
     height: 175px;
-    width: 175px;
+    width: 225px;
     cursor: pointer;
+    transition-property: height;
     transition-property: width;
     transition-duration: 2s;
 }
@@ -195,8 +206,9 @@ body {
 .bilde12 {
     object-fit: cover;
     height: 175px;
-    width: 175px;
+    width: 225px;
     cursor: pointer;
+    transition-property: height;
     transition-property: width;
     transition-duration: 2s;
 }
@@ -214,55 +226,67 @@ body {
     align-items: center; 
     flex-wrap: wrap;
     padding: 25px 0px;
-    gap: 25px;
+    gap: 50px;
 }
 
 .bilde1:hover {
-    width: 500px;
+    height: 700px;
+    width: 900px;
 }
 
 .bilde2:hover {
-    width: 500px;
+    height: 700px;
+    width: 900px;
 }
 
 .bilde3:hover {
-    width: 500px;
+    height: 700px;
+    width: 900px;
 }
 
 .bilde4:hover {
-    width: 500px;
+    height: 700;
+    width: 900px;
 }
 
 .bilde5:hover {
-    width: 500px;
+    height: 700px;
+    width: 900px;
 }
 
 .bilde6:hover {
-    width: 500px;
+    height: 700px;
+    width: 900px;
 }
 
 .bilde7:hover {
-    width: 500px;
+    height: 700px;
+    width: 900px;
 }
 
 .bilde8:hover {
-    width: 500px;
+    height: 700;
+    width: 900px;
 }
 
 .bilde9:hover {
-    width: 500px;
+    height: 700px;
+    width: 900px;
 }
 
 .bilde10:hover {
-    width: 500px;
+    height: 700px;
+    width: 900px;
 }
 
 .bilde11:hover {
-    width: 500px;
+    height: 700px;
+    width: 900px;
 }
 
 .bilde12:hover {
-    width: 500px;
+    height: 700px;
+    width: 900px;
 }
 
 div {
