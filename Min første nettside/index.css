@@ -267,6 +267,22 @@ body {
     cursor: pointer;
 }
 
+.bilde16 {
+    object-fit: cover;
+    height: 175px;
+    width: 350px;
+    cursor: pointer;
+    transition-property: height;
+    transition-property: width;
+    transition-duration: 2s;
+}
+
+.bilde16_stor {
+    height: 700px;
+    width: 900px;
+    cursor: pointer;
+}
+
 .bilde {
     display: flex;
     flex-direction: column;
@@ -348,6 +364,11 @@ body {
 }
 
 .bilde15:hover {
+    height: 700px;
+    width: 900px;
+}
+
+.bilde16:hover {
     height: 700px;
     width: 900px;
 }
