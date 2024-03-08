@@ -96,4 +96,19 @@ bilde14.addEventListener("click", function () {
 img14.classList.toggle("bilde14_stor");
 })
 
+let img15 = document.querySelector("#bilde15");
+
+let bilde15 = document.getElementById("bilde15");
+bilde15.addEventListener("click", function () {
+img15.classList.toggle("bilde15_stor");
+})
+
+let img16 = document.querySelector("#bilde16");
+
+let bilde16 = document.getElementById("bilde16");
+bilde16.addEventListener("click", function () {
+img16.classList.toggle("bilde16_stor");
+})
+
+
 
