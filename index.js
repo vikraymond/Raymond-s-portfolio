@@ -50,14 +50,12 @@ console.log(calculator("*", 10, 5));
 console.log(calculator("/", 10, 5));
 
 let img = document.querySelector("#profilbilde");
-
 let profilbilde = document.getElementById("profilbilde");
 profilbilde.addEventListener("click", function () {
 img.classList.toggle("profilbilde_stor");
 })
 
 let img2 = document.querySelector("#skills_img");
-
 let skills_img = document.getElementById("skills_img");
 skills_img.addEventListener("click", function () {
 console.log("clicked pic 2");
@@ -65,7 +63,6 @@ img2.classList.toggle("skills_img_stor");
 })
 
 let img3 = document.querySelector("#skills_img2");
-
 let skills_img2 = document.getElementById("skills_img2");
 skills_img2.addEventListener("click", function () {
 console.log("clicked pic 2");
