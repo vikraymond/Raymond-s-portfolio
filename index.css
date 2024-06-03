@@ -35,6 +35,7 @@ h1 {
   text-align: center;
   padding: 75px 30px 50px 30px; 
   background-color: lightsalmon;
+  color: purple;
 }
 
 main {
@@ -42,11 +43,10 @@ main {
   flex-direction: column;
   align-items: center;
   background-color:lightsalmon;
-  background-image: url(Bilder/Mercedeslogo.ico);
+  background-image: url(Bilder/Mercedes.webp);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 60%;
-  
 }
 
 #Hjem {
@@ -56,7 +56,7 @@ main {
   justify-content: center;
   max-width: 500px;
   width: 100%;
-  color: purple;
+  color: white;
   padding: 30px 5px;
 }
 
@@ -81,7 +81,7 @@ align-items: center;
 #Om_meg {
   max-width: 500px;
   width: 100%;
-  color: purple;
+  color: white;
   padding: 30px 5px;
 }
 
@@ -121,7 +121,7 @@ align-items: center;
   flex-direction: column;
   max-width: 500px;
   width: 100%;
-  color: purple;
+  color: white;
   padding: 30px 5px;
 }
 
