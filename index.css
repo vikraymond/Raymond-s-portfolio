@@ -10,7 +10,6 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 30px;
   background-color: lightblue;
 }
 
@@ -34,13 +33,15 @@ nav {
 h1 {
   font-size: 30px;
   text-align: center;
-  padding: 30px;
+  padding: 75px 30px 30px 30px; 
+  background-color: lightsalmon;
 }
 
 main {
   display: flex;
   flex-direction: column;
   align-items: center;
+  background-color:lightsalmon;
 }
 
 #Hjem {
@@ -129,6 +130,7 @@ address {
   justify-content: center;
   padding: 30px;
   gap: 40px;
+  background-color: lightsalmon;
 }
 
 footer {
