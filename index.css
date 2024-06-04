@@ -45,8 +45,8 @@ main {
   background-color:lightsalmon;
   background-image: url(Bilder/Mercedes.webp);
   background-repeat: no-repeat;
-  background-position:center;
-  background-size:cover;
+  background-position: center;
+  background-size: cover;
 }
 
 #Hjem {
