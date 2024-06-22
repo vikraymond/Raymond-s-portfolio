@@ -38,6 +38,15 @@ h1 {
   color: purple;
 }
 
+#demo {
+  display: flex;
+  align-items: center;
+  max-width: 500px;
+  width: 100%;
+  color: white;
+  padding: 30px;
+}
+
 main {
   display: flex;
   flex-direction: column;
