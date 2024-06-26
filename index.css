@@ -33,10 +33,18 @@ nav {
 h1 {
   font-size: 30px;
   text-align: center;
-  padding: 75px 30px 50px 30px; 
+  padding: 75px 30px 20px 30px; 
   background-color: lightsalmon;
   color: purple;
 }
+
+#Mercedes {
+  height: 100px;
+  width: 100px;
+  padding: 20px;
+  
+}
+
 
 #demo {
   display: flex;
