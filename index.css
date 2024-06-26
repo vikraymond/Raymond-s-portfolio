@@ -125,6 +125,30 @@ align-items: center;
   cursor: pointer;
 }
 
+.skills_img3 {
+  object-fit: cover;
+  height: 75px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.skills_img_stor3 {
+  height: 700px;
+  cursor: pointer;
+}
+
+.skills_img4 {
+  object-fit: cover;
+  height: 75px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.skills_img_stor4 {
+  height: 700px;
+  cursor: pointer;
+}
+
 #Interesser {
   display: flex;
   flex-direction: column;

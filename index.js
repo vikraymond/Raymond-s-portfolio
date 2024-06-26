@@ -69,8 +69,21 @@ console.log("clicked pic 2");
 img3.classList.toggle("skills_img_stor2");
 })
 
+let img4 = document.querySelector("#skills_img3");
+let skills_img3 = document.getElementById("skills_img3");
+skills_img3.addEventListener("click", function () {
+console.log("clicked pic 2");
+img4.classList.toggle("skills_img_stor3");
+})
 
- 
+let img5 = document.querySelector("#skills_img4");
+let skills_img4 = document.getElementById("skills_img4");
+skills_img4.addEventListener("click", function () {
+console.log("clicked pic 2");
+img5.classList.toggle("skills_img_stor4");
+})
+
+
 
 
 
