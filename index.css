@@ -38,13 +38,17 @@ h1 {
   color: purple;
 }
 
-#Mercedes {
+.mercedes {
+  object-fit: cover;
   height: 100px;
-  width: 100px;
   padding: 20px;
-  
+  cursor: pointer;
 }
 
+.mercedes_stor {
+  height: 700px;
+  cursor: pointer;
+}
 
 #demo {
   display: flex;

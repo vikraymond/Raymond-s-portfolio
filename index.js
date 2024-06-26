@@ -83,6 +83,11 @@ console.log("clicked pic 2");
 img5.classList.toggle("skills_img_stor4");
 })
 
+let img6 = document.querySelector("#mercedes");
+let mercedes = document.getElementById("mercedes");
+mercedes.addEventListener("click", function () {
+img6.classList.toggle("mercedes_stor");
+})
 
 
 
