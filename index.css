@@ -40,7 +40,7 @@ h1 {
 
 .mercedes {
   object-fit: cover;
-  height: 100px;
+  height: 85px;
   margin: 5px;
   cursor: pointer;
 }
