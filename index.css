@@ -38,6 +38,10 @@ h1 {
   color: purple;
 }
 
+h4 {
+  color: purple;
+}
+
 .mercedes {
   object-fit: cover;
   height: 85px;
