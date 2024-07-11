@@ -27,8 +27,8 @@ body {
 
 .bilde1 {
     object-fit: cover;
-    height: 175px;
-    width: 350px;
+    height: 100px;
+    width: 175px;
     cursor: pointer;
     transform: rotateY(360deg);
     transform: scaleX(1);
@@ -45,8 +45,8 @@ body {
 
 .bilde2 {
     object-fit: cover;
-    height: 175px;
-    width: 350px;
+    height: 100px;
+    width: 175px;
     cursor: pointer;
     transition-property: height;
     transition-property: width;
@@ -285,7 +285,7 @@ body {
 
 .bilde {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: center;
     align-items: center; 
     flex-wrap: wra;
