@@ -47,7 +47,7 @@ h4 {
 .overskrifter {
   display: flex;
   flex-direction: row;
-  gap: 35px;
+  gap: 50px;
 }
 
 .mercedes {
