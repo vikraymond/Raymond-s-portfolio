@@ -52,7 +52,7 @@ h4 {
 .overskrifter {
   display: flex;
   flex-direction: row;
-  gap: 50px;
+  gap: 70px;
 }
 
 .mercedes {
@@ -79,7 +79,7 @@ h4 {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  gap: 35px;
+  gap: 19px;
   max-width: 500px;
   width: 100%;
   padding-bottom: 30px;
