@@ -288,6 +288,8 @@ body {
     flex-direction: row;
     justify-content: center;
     align-items: center; 
+    max-width: 500px;
+    width: 100%;
     flex-wrap: wra;
     padding: 25px 0px;
     gap: 50px;
