@@ -197,6 +197,15 @@ align-items: center;
   text-align: center;
 }
 
+#supplyskip {
+  display: flex;
+  justify-content: center;
+  height: 300px;
+  max-width: 500px;
+  width: 100%;
+  background-color: lightyellow;
+}
+
 address {
   display: flex;
   justify-content: center;
