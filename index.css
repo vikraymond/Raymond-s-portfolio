@@ -200,10 +200,11 @@ align-items: center;
 #supplyskip {
   display: flex;
   justify-content: center;
-  height: 400px;
-  max-width: 600px;
+  height: 300px;
+  max-width: 375px;
   width: 100%;
   padding-top: 30px;
+  padding-bottom: 30px;
   background-color: lightyellow;
 }
 
