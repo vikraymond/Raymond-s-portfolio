@@ -197,15 +197,21 @@ align-items: center;
   text-align: center;
 }
 
-#supplyskip {
+.supplyskip {
   display: flex;
   justify-content: center;
   height: 300px;
-  max-width: 375px;
-  width: 100%;
+  width: 375px;
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: lightyellow;
+  cursor: pointer;
+}
+
+.supplyskip_stor {
+  height: 700px;
+  width: 950px;
+  cursor: pointer;
 }
 
 address {
