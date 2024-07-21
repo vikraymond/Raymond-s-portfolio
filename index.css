@@ -132,9 +132,10 @@ main {
 
 .skills_img_container {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
   padding-top: 30px;
   padding-bottom: 30px;
+  gap: 95px;
 }
 
 .skills_img {
