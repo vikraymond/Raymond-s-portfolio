@@ -97,7 +97,8 @@ main {
   align-items: flex-start;
   flex-direction: column;
   justify-content: center;
-  width: 850px;
+  max-width: 850px;
+  width: 100%;
   color: purple;
   padding: 30px 5px;
 }
