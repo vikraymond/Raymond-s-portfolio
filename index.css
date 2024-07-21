@@ -57,7 +57,7 @@ h4 {
 
 .mercedes {
   object-fit: cover;
-  height: 85px;
+  height: 100px;
   margin: 5px;
   cursor: pointer;
 }
@@ -97,16 +97,15 @@ main {
   align-items: flex-start;
   flex-direction: column;
   justify-content: center;
-  max-width: 500px;
-  width: 100%;
+  width: 850px;
   color: purple;
   padding: 30px 5px;
 }
 
 .intro_info {
-display: flex;
-justify-content: center;
-align-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .profilbilde {
@@ -122,8 +121,11 @@ align-items: center;
 }
 
 #Om_meg {
-  max-width: 500px;
-  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  width: 850px;
   color: purple;
   padding: 30px 5px;
 }
@@ -137,7 +139,7 @@ align-items: center;
 
 .skills_img {
   object-fit: cover;
-  height: 75px;
+  height: 100px;
   margin: 5px;
   cursor: pointer;
 }
@@ -149,7 +151,7 @@ align-items: center;
 
 .skills_img2 {
   object-fit: cover;
-  height: 75px;
+  height: 100px;
   margin: 5px;
   cursor: pointer;
 }
@@ -161,7 +163,7 @@ align-items: center;
 
 .skills_img3 {
   object-fit: cover;
-  height: 75px;
+  height: 100px;
   margin: 5px;
   cursor: pointer;
 }
@@ -173,7 +175,7 @@ align-items: center;
 
 .skills_img4 {
   object-fit: cover;
-  height: 75px;
+  height: 100px;
   margin: 5px;
   cursor: pointer;
 }
@@ -186,8 +188,8 @@ align-items: center;
 #Interesser {
   display: flex;
   flex-direction: column;
-  max-width: 500px;
-  width: 100%;
+  justify-content: center;
+  width: 850px;
   color: purple;
   padding: 30px 5px;
 }
@@ -200,7 +202,6 @@ align-items: center;
 .supplyskip {
   display: flex;
   justify-content: center;
-  height: 300px;
   width: 375px;
   padding-top: 30px;
   padding-bottom: 30px;
@@ -218,7 +219,7 @@ address {
   display: flex;
   justify-content: center;
   padding: 30px;
-  gap: 40px;
+  gap: 80px;
   background-color: lightyellow;
 }
 
