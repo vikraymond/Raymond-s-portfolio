@@ -5,12 +5,6 @@ h1 {
     padding: 5px;
 }
 
-@media only screen and (max-width: 500px) {
-    .bilde {
-        width: 100%;
-    }
-}
-
 body {
     background-color: chocolate;
     text-align: center;
@@ -27,7 +21,7 @@ body {
 
 .bilde1 {
     object-fit: cover;
-    height: 450px;
+    height: 400px;
     width: 600px;
     width: 100%;
     cursor: pointer;
@@ -40,13 +34,12 @@ body {
 
 .bilde1_stor {
     height: 700px;
-    width: 950px;
     cursor: pointer;
 }
 
 .bilde2 {
     object-fit: cover;
-    height: 450px;
+    height: 350px;
     width: 600px;
     width: 100%;
     cursor: pointer;
@@ -57,14 +50,14 @@ body {
 
 .bilde2_stor {
     height: 700px;
-    width: 950px;
     cursor: pointer;
 }
 
 .bilde3 {
     object-fit: cover;
-    height: 175px;
-    width: 175px;
+    height: 350px;
+    width: 600px;
+    width: 100%;
     cursor: pointer;
     transition-property: height;
     transition-property: width;
@@ -73,14 +66,14 @@ body {
 
 .bilde3_stor {
     height: 700px;
-    width: 900px;
     cursor: pointer;
 }
 
 .bilde4 {
     object-fit: cover;
-    height: 175px;
-    width: 175px;
+    height: 350px;
+    width: 600px;
+    width: 100%;
     cursor: pointer;
     transition-property: height;
     transition-property: width;
@@ -89,14 +82,14 @@ body {
 
 .bilde4_stor {
     height: 700px;
-    width: 900px;
     cursor: pointer;
 }
 
 .bilde5 {
     object-fit: cover;
-    height: 175px;
-    width: 175px;
+    height: 350px;
+    width: 600px;
+    width: 100%;
     cursor: pointer;
     transition-property: height;
     transition-property: width;
@@ -105,14 +98,14 @@ body {
 
 .bilde5_stor {
     height: 700px;
-    width: 900px;
     cursor: pointer;
 }
 
 .bilde6 {
     object-fit: cover;
-    height: 175px;
-    width: 175px;
+    height: 350px;
+    width: 600px;
+    width: 100%;
     cursor: pointer;
     transition-property: height;
     transition-property: width;
@@ -121,14 +114,14 @@ body {
 
 .bilde6_stor {
     height: 700px;
-    width: 900px;
     cursor: pointer;
 }
 
 .bilde7 {
     object-fit: cover;
-    height: 175px;
-    width: 175px;
+    height: 350px;
+    width: 600px;
+    width: 100%;
     cursor: pointer;
     transition-property: height;
     transition-property: width;
@@ -137,14 +130,14 @@ body {
 
 .bilde7_stor {
     height: 700px;
-    width: 900px;
     cursor: pointer;
 }
 
 .bilde8 {
     object-fit: cover;
-    height: 175px;
-    width: 175px;
+    height: 350px;
+    width: 600px;
+    width: 100%;
     cursor: pointer;
     transition-property: height;
     transition-property: width;
@@ -153,14 +146,14 @@ body {
 
 .bilde8_stor {
     height: 700px;
-    width: 900px;
     cursor: pointer;
 }
 
 .bilde9 {
     object-fit: cover;
-    height: 175px;
-    width: 175px;
+    height: 350px;
+    width: 600px;
+    width: 100%;
     cursor: pointer;
     transition-property: height;
     transition-property: width;
@@ -169,14 +162,14 @@ body {
 
 .bilde9_stor {
     height: 700px;
-    width: 900px;
     cursor: pointer;
 }
 
 .bilde10 {
     object-fit: cover;
-    height: 175px;
-    width: 175px;
+    height: 350px;
+    width: 600px;
+    width: 100%;
     cursor: pointer;
     transition-property: height;
     transition-property: width;
@@ -185,14 +178,14 @@ body {
 
 .bilde10_stor {
     height: 700px;
-    width: 900px;
     cursor: pointer;
 }
 
 .bilde11 {
     object-fit: cover;
-    height: 175px;
-    width: 175px;
+    height: 350px;
+    width: 600px;
+    width: 100%;
     cursor: pointer;
     transition-property: height;
     transition-property: width;
@@ -201,14 +194,14 @@ body {
 
 .bilde11_stor {
     height: 700px;
-    width: 900px;
     cursor: pointer;
 }
 
 .bilde12 {
     object-fit: cover;
-    height: 175px;
-    width: 175px;
+    height: 350px;
+    width: 600px;
+    width: 100%;
     cursor: pointer;
     transition-property: height;
     transition-property: width;
@@ -217,14 +210,14 @@ body {
 
 .bilde12_stor {
     height: 700px;
-    width: 900px;
     cursor: pointer;
 }
 
 .bilde13 {
     object-fit: cover;
-    height: 175px;
-    width: 175px;
+    height: 350px;
+    width: 600px;
+    width: 100%;
     cursor: pointer;
     transition-property: height;
     transition-property: width;
@@ -233,14 +226,14 @@ body {
 
 .bilde13_stor {
     height: 700px;
-    width: 900px;
     cursor: pointer;
 }
 
 .bilde14 {
     object-fit: cover;
-    height: 175px;
-    width: 175px;
+    height: 350px;
+    width: 600px;
+    width: 100%;
     cursor: pointer;
     transition-property: height;
     transition-property: width;
@@ -249,14 +242,14 @@ body {
 
 .bilde14_stor {
     height: 700px;
-    width: 900px;
     cursor: pointer;
 }
 
 .bilde15 {
     object-fit: cover;
-    height: 175px;
-    width: 175px;
+    height: 350px;
+    width: 600px;
+    width: 100%;
     cursor: pointer;
     transition-property: height;
     transition-property: width;
@@ -265,14 +258,14 @@ body {
 
 .bilde15_stor {
     height: 700px;
-    width: 900px;
     cursor: pointer;
 }
 
 .bilde16 {
     object-fit: cover;
-    height: 175px;
-    width: 175px;
+    height: 350px;
+    width: 600px;
+    width: 100%;
     cursor: pointer;
     transition-property: height;
     transition-property: width;
@@ -281,7 +274,6 @@ body {
 
 .bilde16_stor {
     height: 700px;
-    width: 900px;
     cursor: pointer;
 }
 
@@ -296,7 +288,7 @@ body {
 
 .bilde1:hover {
     height: 700px;
-    width: 900px;
+    width: 1050px;
 }
 
 .bilde2:hover {
