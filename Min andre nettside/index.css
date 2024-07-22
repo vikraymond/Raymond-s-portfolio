@@ -10,7 +10,7 @@ h1 {
 
 h3 {
     align-items: center;
-    max-width: 500px;
+    max-width: 600px;
     width: 100%;
 }
 
@@ -23,8 +23,8 @@ body {
 }
 
 .Godjul {
-    height: 250px;
-    max-width: 500px;
+    height: 325px;
+    max-width: 600px;
     width: 100%;
     margin-top: 40px;
     margin-bottom: 40px;
@@ -38,8 +38,8 @@ body {
 }
 
 .Godtnyttår {
-    height: 250px;
-    max-width: 500px;
+    height: 325px;
+    max-width: 600px;
     width: 100%;
     background-image: url(Bilder/Godt_nyttår.jpg);
     background-size: cover;
