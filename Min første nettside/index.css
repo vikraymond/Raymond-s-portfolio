@@ -28,7 +28,8 @@ body {
 .bilde1 {
     object-fit: cover;
     height: 175px;
-    width: 200px;
+    max-width: 225px;
+    width: 100%;
     cursor: pointer;
     transform: rotateY(360deg);
     transform: scaleX(1);
@@ -46,7 +47,8 @@ body {
 .bilde2 {
     object-fit: cover;
     height: 175px;
-    width: 175px;
+    max-width: 225px;
+    width: 100%;
     cursor: pointer;
     transition-property: height;
     transition-property: width;
@@ -292,7 +294,7 @@ body {
     width: 100%;
     flex-wrap: wra;
     padding: 25px 0px;
-    gap: 25px;
+    gap: 50px;
 }
 
 .bilde1:hover {
