@@ -28,7 +28,7 @@ body {
 .bilde1 {
     object-fit: cover;
     height: 450px;
-    max-width: 600px;
+    width: 600px;
     width: 100%;
     cursor: pointer;
     transform: rotateY(360deg);
@@ -40,14 +40,14 @@ body {
 
 .bilde1_stor {
     height: 700px;
-    width: 900px;
+    width: 950px;
     cursor: pointer;
 }
 
 .bilde2 {
     object-fit: cover;
     height: 450px;
-    max-width: 600px;
+    width: 600px;
     width: 100%;
     cursor: pointer;
     transition-property: height;
@@ -57,7 +57,7 @@ body {
 
 .bilde2_stor {
     height: 700px;
-    width: 900px;
+    width: 950px;
     cursor: pointer;
 }
 
