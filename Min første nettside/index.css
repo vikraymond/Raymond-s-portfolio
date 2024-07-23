@@ -39,7 +39,7 @@ body {
 
 .bilde2 {
     object-fit: cover;
-    height: 350px;
+    height: 400px;
     width: 600px;
     width: 100%;
     cursor: pointer;
@@ -55,7 +55,7 @@ body {
 
 .bilde3 {
     object-fit: cover;
-    height: 350px;
+    height: 400px;
     width: 600px;
     width: 100%;
     cursor: pointer;
@@ -71,7 +71,7 @@ body {
 
 .bilde4 {
     object-fit: cover;
-    height: 350px;
+    height: 400px;
     width: 600px;
     width: 100%;
     cursor: pointer;
@@ -87,7 +87,7 @@ body {
 
 .bilde5 {
     object-fit: cover;
-    height: 350px;
+    height: 400px;
     width: 600px;
     width: 100%;
     cursor: pointer;
@@ -103,7 +103,7 @@ body {
 
 .bilde6 {
     object-fit: cover;
-    height: 350px;
+    height: 400px;
     width: 600px;
     width: 100%;
     cursor: pointer;
@@ -119,7 +119,7 @@ body {
 
 .bilde7 {
     object-fit: cover;
-    height: 350px;
+    height: 400px;
     width: 600px;
     width: 100%;
     cursor: pointer;
@@ -135,7 +135,7 @@ body {
 
 .bilde8 {
     object-fit: cover;
-    height: 350px;
+    height: 400px;
     width: 600px;
     width: 100%;
     cursor: pointer;
@@ -151,7 +151,7 @@ body {
 
 .bilde9 {
     object-fit: cover;
-    height: 350px;
+    height: 400px;
     width: 600px;
     width: 100%;
     cursor: pointer;
@@ -167,7 +167,7 @@ body {
 
 .bilde10 {
     object-fit: cover;
-    height: 350px;
+    height: 400px;
     width: 600px;
     width: 100%;
     cursor: pointer;
@@ -183,7 +183,7 @@ body {
 
 .bilde11 {
     object-fit: cover;
-    height: 350px;
+    height: 400px;
     width: 600px;
     width: 100%;
     cursor: pointer;
@@ -199,7 +199,7 @@ body {
 
 .bilde12 {
     object-fit: cover;
-    height: 350px;
+    height: 400px;
     width: 600px;
     width: 100%;
     cursor: pointer;
@@ -215,7 +215,7 @@ body {
 
 .bilde13 {
     object-fit: cover;
-    height: 350px;
+    height: 400px;
     width: 600px;
     width: 100%;
     cursor: pointer;
@@ -231,7 +231,7 @@ body {
 
 .bilde14 {
     object-fit: cover;
-    height: 350px;
+    height: 400px;
     width: 600px;
     width: 100%;
     cursor: pointer;
@@ -247,7 +247,7 @@ body {
 
 .bilde15 {
     object-fit: cover;
-    height: 350px;
+    height: 400px;
     width: 600px;
     width: 100%;
     cursor: pointer;
@@ -263,7 +263,7 @@ body {
 
 .bilde16 {
     object-fit: cover;
-    height: 350px;
+    height: 400px;
     width: 600px;
     width: 100%;
     cursor: pointer;
@@ -293,77 +293,77 @@ body {
 
 .bilde2:hover {
     height: 700px;
-    width: 900px;
+    width: 1050px;
 }
 
 .bilde3:hover {
     height: 700px;
-    width: 900px;
+    width: 1050px;
 }
 
 .bilde4:hover {
     height: 700px;
-    width: 900px;
+    width: 1050px;
 }
 
 .bilde5:hover {
     height: 700px;
-    width: 900px;
+    width: 1050px;
 }
 
 .bilde6:hover {
     height: 700px;
-    width: 900px;
+    width: 1050px;
 }
 
 .bilde7:hover {
     height: 700px;
-    width: 900px;
+    width: 1050px;
 }
 
 .bilde8:hover {
     height: 700px;
-    width: 900px;
+    width: 1050px;
 }
 
 .bilde9:hover {
     height: 700px;
-    width: 900px;
+    width: 1050px;
 }
 
 .bilde10:hover {
     height: 700px;
-    width: 900px;
+    width: 1050px;
 }
 
 .bilde11:hover {
     height: 700px;
-    width: 900px;
+    width: 1050px;
 }
 
 .bilde12:hover {
     height: 700px;
-    width: 900px;
+    width: 1050px;
 }
 
 .bilde13:hover {
     height: 700px;
-    width: 900px;
+    width: 1050px;
 }
 
 .bilde14:hover {
     height: 700px;
-    width: 900px;
+    width: 1050px;
 }
 
 .bilde15:hover {
     height: 700px;
-    width: 900px;
+    width: 1050px;
 }
 
 .bilde16:hover {
     height: 700px;
-    width: 900px;
+    width: 1050px;
 }
 
 div {
