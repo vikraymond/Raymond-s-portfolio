@@ -206,7 +206,8 @@ main {
 .supplyskip {
   display: flex;
   justify-content: center;
-  width: 600px;
+  max-width: 600px;
+  width: 100%;
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: lightyellow;
@@ -214,8 +215,8 @@ main {
 }
 
 .supplyskip_stor {
-  height: 700px;
-  width: 1050px; 
+  height: 400px;
+  width: 600px; 
   cursor: pointer;
 }
 
