@@ -41,7 +41,7 @@ h1 {
 
 h3 {
   color: purple;
-  padding-top: 40px;
+  padding-top: 10px;
 }
 
 h4 {
@@ -208,9 +208,7 @@ main {
   justify-content: center;
   max-width: 600px;
   width: 100%;
-  padding-top: 30px;
-  padding-bottom: 30px;
-  margin: 5px;
+  padding-top: 40px;
   background-color: lightyellow;
   cursor: pointer;
 }
