@@ -59,12 +59,14 @@ h4 {
 .mercedes {
   object-fit: cover;
   height: 100px;
+  width: 133px;
   margin: 5px;
   cursor: pointer;
 }
 
 .mercedes_stor {
   height: 700px;
+  width: 1050px;
   cursor: pointer;
 }
 
@@ -81,7 +83,7 @@ h4 {
   justify-content: center;
   max-width: 600px;
   width: 100%;
-  gap: 50px;
+  gap: 25px;
   padding-bottom: 30px;
 }
 
