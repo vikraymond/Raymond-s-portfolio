@@ -1,33 +1,36 @@
-const steinButton = document.querySelector ("#stein");
-const saksButton = document.querySelector ("#saks");
-const papirButton = document.querySelector ("#papir");
+const steinButton = document.querySelector("#stein");
+const saksButton = document.querySelector("#saks");
+const papirButton = document.querySelector("#papir");
 
-const displayDittValg = document.querySelector ("#dittValg");
-const displayMaskinValg = document.querySelector ("#maskinValg");
-const displayResults = document.querySelector ("#results");
+const displayDittValg = document.querySelector("#dittValg");
+const displayMaskinValg = document.querySelector("#maskinValg");
+const displayResults = document.querySelector("#results");
 
 let dittValg;
 const choices = ["stein", "saks", "papir"];
-function selectStein () {
+
+function selectStein() {
     dittValg = "stein";
-    maskinValg ();
+    maskinValg();
 }
 
-steinButton.addEventListener ("click", selectStein);
-function selectSaks () {
+steinButton.addEventListener("click", selectStein);
+
+function selectSaks() {
     dittValg = "saks";
-    maskinValg ();
+    maskinValg();
 }
 
-saksButton.addEventListener ("click", selectSaks);
-function selectPapir () {
+saksButton.addEventListener("click", selectSaks);
+
+function selectPapir() {
     dittValg = "papir";
-    maskinValg ();
+    maskinValg();
 }
 
-papirButton.addEventListener ("click", selectPapir);
+papirButton.addEventListener("click", selectPapir);
 
-function maskinValg () {
+function maskinValg() {
     let computerNumber = choices [Math.floor (Math.random () * 3)];
     displayDittValg.innerHTML = dittValg;
     displayMaskinValg.innerHTML = computerNumber;
