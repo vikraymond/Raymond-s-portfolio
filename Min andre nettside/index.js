@@ -1,6 +1,6 @@
-const steinButton = document.querySelector("#stein");
-const saksButton = document.querySelector("#saks");
-const papirButton = document.querySelector("#papir");
+const steinButton = document.querySelector("#Stein");
+const saksButton = document.querySelector("#Saks");
+const papirButton = document.querySelector("#Papir");
 
 const displayDittValg = document.querySelector("#dittValg");
 const displayMaskinValg = document.querySelector("#maskinValg");
