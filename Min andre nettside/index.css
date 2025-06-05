@@ -4,6 +4,7 @@ h1 {
     border-color: yellow;
     padding: 10px;
     text-shadow: 1px 1px black;
+    margin-bottom: 40px;
     max-width: 460px;
     width: 75%;
     display: flex;
