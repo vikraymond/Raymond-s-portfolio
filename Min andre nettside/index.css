@@ -11,6 +11,21 @@ h1 {
     justify-content: center;
 }
 
+#Stein {
+    zoom: 150%;
+    margin-bottom: 10px;
+}
+
+#Saks {
+    zoom: 150%;
+    margin-bottom: 10px;
+}
+
+#Papir {
+    zoom: 150%;
+    margin-bottom: 10px;
+}
+
 h2 {
     padding-top: 20px;
     padding-bottom: 20px;
