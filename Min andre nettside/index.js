@@ -7,24 +7,24 @@ const displayMaskinValg = document.querySelector("#maskinValg");
 const displayResults = document.querySelector("#results");
 
 let dittValg;
-const choices = ["stein", "saks", "papir"];
+const choices = ["Stein", "Saks", "Papir"];
 
 function selectStein() {
-    dittValg = "stein";
+    dittValg = "Stein";
     maskinValg();
 }
 
 steinButton.addEventListener("click", selectStein);
 
 function selectSaks() {
-    dittValg = "saks";
+    dittValg = "Saks";
     maskinValg();
 }
 
 saksButton.addEventListener("click", selectSaks);
 
 function selectPapir() {
-    dittValg = "papir";
+    dittValg = "Papir";
     maskinValg();
 }
 
