@@ -45,22 +45,22 @@ function maskinValg() {
     if (dittValg === computerNumber) {
         displayResults.innerHTML = "Det er uavgjort!";
         Uavgjort += 1;
-        displayUavgjort.innerHTML = "Uavgjort="+Uavgjort;
+        displayUavgjort.innerHTML = "Antall uavgjort = "+Uavgjort;
     } else if (computerNumber === "Stein" && dittValg === "Papir") {
         displayResults.innerHTML = "Du vinner!";
         Vinn += 1;   
-        displayVinn.innerHTML = "Vinn="+Vinn;
+        displayVinn.innerHTML = "Antall gevinst = "+Vinn;
     } else if (computerNumber === "Papir" && dittValg === "Saks") {
         displayResults.innerHTML = "Du vinner!";
         Vinn += 1;
-        displayVinn.innerHTML = "Vinn="+Vinn;
+        displayVinn.innerHTML = "Antall gevinst = "+Vinn;
     } else if (computerNumber === "Saks" && dittValg === "Stein") {
         displayResults.innerHTML = "Du vinner!";
         Vinn += 1;
-        displayVinn.innerHTML = "Vinn="+Vinn;
+        displayVinn.innerHTML = "Antall gevinst = "+Vinn;
     } else {
         displayResults.innerHTML = "Du taper!"
         Tap += 1;
-        displayTap.innerHTML = "Tap="+Tap;
+        displayTap.innerHTML = "Antall tap = "+Tap;
     }
 }
