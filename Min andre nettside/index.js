@@ -64,3 +64,17 @@ function maskinValg() {
         displayTap.innerHTML = "Antall tap = "+Tap;
     }
 }
+
+async function fetchCatFact() {
+    try {
+        const response = await fetch("https://catfact.ninja/fact");
+        const data = await response.json();
+        const catfact = document.querySelector("#catFact");
+        catFact.textContent=data.fact;
+    } catch (error) {
+        console.error("Error:", error);
+    }
+} 
+
+const factButton = document.querySelector("#factButton");
+factButton.addEventListener("click", fetchCatFact);
