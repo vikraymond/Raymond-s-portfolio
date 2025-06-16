@@ -30,6 +30,10 @@ nav {
   margin: 5px;
 }
 
+body {
+    background-color: lightyellow;
+}
+
 h1 {
   font-size: 30px;
   text-align: center;
