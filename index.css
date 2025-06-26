@@ -44,7 +44,7 @@ h1 {
 }  
 
 .nameAnimationText {
-  font-size: 42px;
+  font-size: 43px;
   text-transform: uppercase;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -68,6 +68,24 @@ h1 {
   100% {
     background-position: 100%;
   }
+}
+
+.animationMain {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 25%;
+}
+
+.section {
+	min-height: 50vh;
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding: 8px;
 }
 
 h3 {
