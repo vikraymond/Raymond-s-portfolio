@@ -39,8 +39,6 @@ h1 {
   text-align: center;
   justify-content: center;
   padding: 50px 0px 30px 0px;
-  background-color: purple;
-  color: purple;
 }  
 
 .nameAnimationText {
@@ -54,11 +52,11 @@ h1 {
     rgba(235, 141, 0, 1), 25%,
     rgba(214, 0, 255, 1) 49%,
     rgba(0, 212, 255, 1) 50%,
-    rgba(0, 212 255, 1) 100%
+    rgba(0, 212, 255, 1) 100%
   );
   -webkit-background-clip: text;
   background-size: 200% auto;
-  animation: fancyTextColor 4s linear infinite;
+  animation: fancyTextColor 4s linear infinite reverse;
 }
 
 @keyframes fancyTextColor {
