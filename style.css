@@ -106,7 +106,7 @@ h4 {
 .mercedes {
   object-fit: cover;
   height: 100px;
-  width: 133px;
+  width: 150px;
   margin: 5px;
   cursor: pointer;
 }
@@ -253,18 +253,19 @@ main {
 }
 
 .supplyskip {
+  object-fit: cover;
+  height: 300px;
+  width: 600px;
   display: flex;
   justify-content: center;
-  max-width: 600px;
-  width: 100%;
   padding-top: 40px;
   background-color: lightyellow;
   cursor: pointer;
 }
 
 .supplyskip_stor {
-  height: 400px;
-  width: 600px; 
+  height: 700px;
+  width: 1050;
   cursor: pointer;
 }
 
