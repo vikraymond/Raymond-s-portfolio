@@ -252,7 +252,7 @@ main {
   text-align: center;
 }
 
-.supplyskip {
+.flaket {
   object-fit: cover;
   height: 300px;
   width: 600px;
@@ -263,7 +263,7 @@ main {
   cursor: pointer;
 }
 
-.supplyskip_stor {
+.flaket_stor {
   height: 700px;
   width: 1050;
   cursor: pointer;

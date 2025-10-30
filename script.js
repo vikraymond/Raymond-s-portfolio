@@ -89,10 +89,10 @@ mercedes.addEventListener("click", function () {
 img6.classList.toggle("mercedes_stor");
 })
 
-let img7 = document.querySelector("#supplyskip");
-let supplyskip = document.getElementById("supplyskip");
-supplyskip.addEventListener("click", function () {
-img7.classList.toggle("supplyskip_stor");
+let img7 = document.querySelector("#flaket");
+let flaket = document.getElementById("flaket");
+flaket.addEventListener("click", function () {
+img7.classList.toggle("flaket_stor");
 })
 
 
